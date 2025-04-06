@@ -1,4 +1,3 @@
-# pwned
 ![image](https://github.com/user-attachments/assets/870ef65c-0e06-4388-b891-7be04b09d627)
 
 Search the world's largest dataset of leaked passwords
