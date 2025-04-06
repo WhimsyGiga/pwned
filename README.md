@@ -13,6 +13,7 @@ You can run this script using:
 
 ```bash
 python pwned.py
+or
 python pwned.py QUERY -s
 
 QUERY is the username or password you want to search for.
